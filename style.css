@@ -1,0 +1,15 @@
+body {
+    border: solid 6px;
+    display: flow-root;
+    border-color: rgb(153, 30, 30);
+}
+
+#img1 {
+    float: left;
+    margin-right: 10px;
+}
+
+#img2 {
+    float: right;
+    margin: 10px;
+}
